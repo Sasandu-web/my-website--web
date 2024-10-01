@@ -1,0 +1,16 @@
+<html>
+   <head>
+        <title>Information about teacher's day.</title>
+   </head>
+<body>
+  <p>
+      Teacher’s day celebrated on 5th September in India is an essential day in the calendar. This is the day that we celebrate as a tribute to the efforts and work of our teachers. The job of teaching is one of the hardest professions on the planet because the teachers have the duty of teaching the young people of the country.<br>
+
+A teacher has the whole class of kids to teach, control and motivate. It is an entirely capable activity because each student is not the same as the other and have the same capacity. A decent teacher consistently keeps his students’ enthusiasm and perceives their capacities to work toward that path. He instructs them to sharpen the aptitudes of their subject or work and simultaneously takes care that their different activities or subjects ought not to be affected.<br>
+
+Even though we cooperate with our teachers consistently or all the time, we barely comprehend their qualities throughout our life. We comprehend their significance just when they are far from us. The Teacher’s Day reminds us to offer our thanks towards them. In any event, we can give them an appreciation for what they implied for us, and appreciate them for their essence in our life.<br>
+    
+</p>
+
+</body>
+</html>
